@@ -1,7 +1,7 @@
 <h1>Proje Açıklaması</h1>
 
 <p>
-    Bu proje, YOLOv8m modeli kullanılarak insan tespiti yapmayı hedefler.
+   Yolov8m modeli kullanılarak drone görüntüleri ile eğitilen insan tespiti modeli
 </p>
 
 <h2>Gereksinimler</h2>
