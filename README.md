@@ -23,9 +23,6 @@
     <p>Proje dosyalarınızı ve yolov8m.pt model dosyasını kullanarak insan tespiti işlemini gerçekleştirin.</p>
 </li>
 
-<li><strong>Örnek Kullanım</strong>
-    <pre><code>python detect_humans.py</code></pre>
-</li>
 </ol>
 
 <h2>Lisans</h2>
