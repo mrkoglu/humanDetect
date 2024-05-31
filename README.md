@@ -14,7 +14,7 @@
 <ol>
 <li><strong>Kurulum</strong>
     <ul>
-        <li>Ultralytics kütüphanesini yükleyin: <code>pip install yolov5</code></li>
+        <li>Ultralytics kütüphanesini yükleyin: <code>pip install ultralytics</code></li>
         <li>yolov8m.pt model dosyasını indirin ve proje klasörüne yerleştirin.</li>
     </ul>
 </li>
